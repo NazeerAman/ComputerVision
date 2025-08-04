@@ -69,8 +69,6 @@ pip install -r requirements.txt
 - Original image displayed using OpenCV window or inline in notebook  
 - Saved image in output directory
 
----
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+
